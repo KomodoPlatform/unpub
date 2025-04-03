@@ -1,8 +1,8 @@
-ARG dart_version=2.19.6
+ARG dart_version=3.7.2
 
 FROM dart:${dart_version}
 
-ENV PUB_HOSTED_URL="https://mirrors.tuna.tsinghua.edu.cn/dart-pub"
+ENV PUB_HOSTED_URL="https://pub.dev"
 
 WORKDIR /app
 

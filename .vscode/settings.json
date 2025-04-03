@@ -1,0 +1,12 @@
+{
+  // "dart.flutterSdkPath": ".fvm/versions/3.10.6",
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "unpub_web/**": true
+  },
+  "explorerExclude.backup": {}
+}
